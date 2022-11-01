@@ -1,0 +1,11 @@
+﻿  ChessValidatorOOP2.cpp
+D:\Programs\ChessValidatorOOP2\ChessValidatorOOP2\King.h(4,20): warning C4584: 'King': base-class 'Board' is already a base-class of 'Input'
+D:\Programs\ChessValidatorOOP2\ChessValidatorOOP2\Board.h(2): message : see declaration of 'Board'
+D:\Programs\ChessValidatorOOP2\ChessValidatorOOP2\Input.h(3): message : see declaration of 'Input'
+  King.cpp
+D:\Programs\ChessValidatorOOP2\ChessValidatorOOP2\King.h(4,20): warning C4584: 'King': base-class 'Board' is already a base-class of 'Input'
+D:\Programs\ChessValidatorOOP2\ChessValidatorOOP2\Board.h(2): message : see declaration of 'Board'
+D:\Programs\ChessValidatorOOP2\ChessValidatorOOP2\Input.h(3): message : see declaration of 'Input'
+D:\Programs\ChessValidatorOOP2\ChessValidatorOOP2\King.cpp(9,16): warning C4101: 'colors': unreferenced local variable
+  Generating Code...
+  ChessValidatorOOP2.vcxproj -> D:\Programs\ChessValidatorOOP2\Debug\ChessValidatorOOP2.exe
